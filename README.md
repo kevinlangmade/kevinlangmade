@@ -1,4 +1,4 @@
-Welcome to my GitHub profile. I am a self-taught software engineer with professional experience in Go, Java, and DevOps. 
+Welcome to my GitHub profile. I am a self-taught software engineer with professional experience in Go, Java, and DevOps technologies. 
 
 
 My goal will always be to create with clarity. As I develop my programming skillset, that principal will be my bowling alley inflatable bumpers. Simplicity is clarity's best friend but not everything can be simple at the macro level. I hope to help bring simplicity and clarity to the world a little bit at a time by taking bite-sized problems and work my way up. 
